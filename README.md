@@ -20,6 +20,8 @@ Ideal for small apps, games, and feature toggling using constructor-based config
 ---
 ## Preview 
 
+![WhatsApp Image 2026-01-16 at 4 50 08 PM](https://github.com/user-attachments/assets/c4ede0c5-1778-4310-9cdd-58ed2dcfa805)
+
 ---
 ## 📁 Example Structure
 ```
